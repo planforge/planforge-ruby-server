@@ -1,0 +1,3 @@
+module PlanForge
+  VERSION = "0.1.0"
+end
